@@ -25,7 +25,7 @@ public class People extends Community{
 
     @Override
     public List<String> getPeopleName(){
-        System.out.println("To get name from the getpeoplename method to override result");
+        System.out.println("To get name from the get people name method to override result");
         List<String> names = new ArrayList<>();
         names.add("guest1");
         names.add("guest2");
