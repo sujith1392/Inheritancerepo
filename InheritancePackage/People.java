@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class People extends Community{
-
+ //main method
     public static void main(String[] args) {
         Community community = new Community();
         community.CommunityBoardwalk = "com_people";
