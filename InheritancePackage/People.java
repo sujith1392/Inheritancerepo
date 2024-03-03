@@ -29,6 +29,7 @@ public class People extends Community{
         List<String> names = new ArrayList<>();
         names.add("guest1");
         names.add("guest2");
+        names.add("guest3");
         return names;
     }
 }
