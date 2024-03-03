@@ -22,7 +22,7 @@ public class People extends Community{
         System.out.println("brodwalk  name : "+ community1.CommunityBoardwalk);
         System.out.println("aspen name : "+ community1.CommunityAspen);
     }
-
+    // override
     @Override
     public List<String> getPeopleName(){
         System.out.println("To get name from the get people name method to override result");
